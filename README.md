@@ -11,6 +11,7 @@
 - Keyboard hooks for auto-corection
 - Basic check to see if it is really a mistake
 - Processing in background capability
+- Multiple window managment [new]
 - Tested on Windows
 
 
